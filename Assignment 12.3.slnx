@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Assignment 12.3/Assignment 12.3.csproj" />
+  <Project Path="TeacherApp/TeacherApp.csproj" Id="c0df2b03-3f99-462f-b665-921e3c193525">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
